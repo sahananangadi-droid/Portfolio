@@ -4,3 +4,4 @@ Hi, I'm Sahana, an engineering student studying Computer Science at RVCE. This r
 
 - Learning Python
 - Interested in cloud computing
+- Goal: contribute to open source
